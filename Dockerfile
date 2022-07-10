@@ -1,1 +1,1 @@
-FROM ghcr.io/dexidp/dex:v2.30.2
+FROM gcr.io/heptio-images/ks-guestbook-demo:0.2
